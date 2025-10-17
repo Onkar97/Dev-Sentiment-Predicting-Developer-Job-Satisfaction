@@ -1,4 +1,4 @@
-# DevSentiment – Predicting Developer Job Satisfaction
+# Dev Sentiment – Predicting Developer Job Satisfaction
 
 This project analyzes developer survey data to predict job satisfaction using classical ML models. It includes preprocessing (missing value handling, encoding, normalization), model training (Logistic Regression, Random Forest, SVM), and feature importance analysis.
 
